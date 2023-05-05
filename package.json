@@ -5,9 +5,12 @@
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
+    "@fullcalendar/common": "^5.11.4",
     "@fullcalendar/core": "^6.1.5",
     "@fullcalendar/daygrid": "^6.1.5",
+    "@fullcalendar/interaction": "^6.1.6",
     "@fullcalendar/list": "^6.1.5",
+    "@fullcalendar/react": "^6.1.6",
     "@fullcalendar/timegrid": "^6.1.5",
     "@mui/icons-material": "^5.11.11",
     "@mui/material": "^5.11.14",
